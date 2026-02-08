@@ -6,6 +6,8 @@ Some Node.js examples
 
 [Redis read and write](./redis-read-write.js)
 
+[Download images with Playwright](./playwright-download-images.js)
+
 ## license
 
 [MIT](./LICENSE)
